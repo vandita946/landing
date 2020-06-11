@@ -1,0 +1,27 @@
+.banner{
+    background-image: url('https://assets.website-files.com/5bcb5ee81fb2091a2ec550c7/5d12fbb511126003d2c4acd0_reading-corner-colour.svg');
+    opacity: 80%;
+    background-size: cover;
+    background-position: center;
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+}
+
+.container h1{
+    color: #730028;
+    text-shadow: 2px 1px 1px #FFD8E6;
+}
+
+.container p{
+    background-image: linear-gradient(333deg, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.5) 0%);
+    color: #730028;
+    font-weight: bold;
+    font-style: italic;
+}
